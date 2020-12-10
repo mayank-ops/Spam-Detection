@@ -1,0 +1,3 @@
+assuming you have the latest python installed
+
+1.Just run gui.py using command line or using any IDE
